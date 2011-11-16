@@ -1,0 +1,30 @@
+
+1- New technologies in TV industry make use of the Web 
+to interact with TV content on set top boxes.
+2- Electronic Program Guide (EPGs) help creating creating personal recommendation services based on 
+users habits. NoTube go further because the actual solutions are bound to one plateform (e.g: set top box,
+Web or rather TV-centric) . The presence of the users in social networks (MySpace, YouTube, Amazon, Facebook, etc..)
+are not fully used in the actual solution in uer-TV interaction.
+3- Notube projects aims to overcome these deficiencies through 3 different scenarios:
+    + personalized semantic news
+	+ narrowcasting advertisement
+	+ community based content selection
+	
+ A- Personalized semantic news
+ This scenario is focused n the creation, distribution and usage of personalized news services enabling (1) 
+ acquire news items from generic broadcast streams, (2) understand the meaning of video news items, (3) understang
+ the physical context in which the items are shown and (4) apply criteria for matching the user profile with teh available
+ news items.
+ 
+ In this use case, NoTube is service-oriented and exposes services in SOAP, REST APIs or both, and the services
+ organized in four layers, with the final goal to produce a personalized experience to the end user.
+ 
+ B- Expected Added Value
+  The user get in his home environment segments of his own interest represented not only by audio-video, but
+   also by audio-only or text-only or by other metadata and likns to related external resources on the Web (e.g: 
+   using Linked Data paradigm)
+  
+  Note for the Presentation
+     -insert Figure 1- (explain data flow)
+	 Find an extra material of this useCase (vide
+	 
